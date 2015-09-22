@@ -32,7 +32,7 @@ Test the model on the test data.
 $ crfsuite tag -qt -m <model name> <test data file>
 ```
 
-Previous results on the models descriped in the paper can be found in [res.all.txt]().
+Previous results on the models descriped in the paper can be found in [res.all.txt](https://github.com/melanietosik/srl/blob/master/res.all.txt).
 
 DESCRIPTION
 -----------
