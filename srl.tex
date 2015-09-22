@@ -29,7 +29,7 @@
 
 \begin{document}
 
-\title{Semantic Role Labeling using Linear-Chain CRFs}
+\title{Semantic Role Labeling using Linear-Chain CRF}
 \author{Melanie Tosik\\\\
 \small University of Potsdam, Department Linguistics\\
 \small Seminar: Advanced Language Modeling (Dr. Thomas Hanneforth)\\
@@ -38,12 +38,12 @@
 \maketitle
 
 \pagestyle{myheadings}
-\markboth{M. Tosik}{Semantic Role Labeling using Linear-Chain CRFs}
+\markboth{M. Tosik}{Semantic Role Labeling using Linear-Chain CRF}
 \thispagestyle{empty}
 
 \begin{abstract}
 \noindent
-The aim of this paper is to present a simplified take on applying linear-chain conditional random fields (CRFs) to semantic role labeling (SRL), with a focus on German. The dataset is adapted from the semantic parsing track of the CoNLL-2009 shared task on syntactic and semantic dependencies in multiple languages. By treating SRL as a sequence labeling task, the framework architecture becomes very simple. Building on a set of hand-crafted features, a linear-chain CRF model is trained which jointly performs argument identification and classification in a single step. The best results on the sequence tagging task are obtained by the model which integrates basic argument and predicate features, as well as a binary feature indicating if a given argument is a syntactic child of the predicate in the dependency tree. We found that for our system, employing more distinct features on syntactic dependents of the predicate impaired model performance.
+The aim of this paper is to present a simplified take on applying linear-chain conditional random fields (CRF) to semantic role labeling (SRL), with a focus on German. The dataset is adapted from the semantic parsing track of the CoNLL-2009 shared task on syntactic and semantic dependencies in multiple languages. By treating SRL as a sequence labeling task, the framework architecture becomes very simple. Building on a set of hand-crafted features, a linear-chain CRF model is trained which jointly performs argument identification and classification in a single step. The best results on the sequence tagging task are obtained by the model which integrates basic argument and predicate features, as well as a binary feature indicating if a given argument is a syntactic child of the predicate in the dependency tree. We found that for our system, employing more distinct features on syntactic dependents of the predicate impaired model performance.
 
 \end{abstract}
 
