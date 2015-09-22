@@ -43,9 +43,7 @@ For example:
 
 [ John ]<sub>AGENT</sub> hits [ Mary ]<sub>PATIENT</sub> [ with a stick ]<sub>INSTRUMENT</sub> .
 
-Find details on the [CoNLL-2009 Shared Task website](https://ufal.mff.cuni.cz/conll2009-st/task-description.html).
-
-[Read the paper](http://www.melanietosik.com/files/srl.pdf).
+[Read the paper](http://www.melanietosik.com/files/srl.pdf). Find more details on the original [CoNLL-2009 Shared Task](https://ufal.mff.cuni.cz/conll2009-st/task-description.html).
 
 DATA FORMAT
 -----------
