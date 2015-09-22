@@ -1,5 +1,5 @@
-Semantic Role Labeling using Linear-Chain CRFs
-==============================================
+Semantic Role Labeling using Linear-Chain CRF
+=============================================
 
 NAME
 ----
