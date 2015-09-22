@@ -9,7 +9,7 @@ srl_v*.py - Extracts SRL features in CRFsuite format
 PREREQUISITES
 --------
 
-Get (training and test data for German)[https://ufal.mff.cuni.cz/conll2009-st/data/traindev.html]. You also need [CRFsuite](http://www.chokkan.org/software/crfsuite/) installed.
+Get [training and test data for German](https://ufal.mff.cuni.cz/conll2009-st/data/traindev.html). You also need [CRFsuite](http://www.chokkan.org/software/crfsuite/) installed.
 
 SYNOPSIS
 --------
