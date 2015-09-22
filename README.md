@@ -48,7 +48,7 @@ For example:
 DATA FORMAT
 -----------
 
-Dependency representations following SRL [CoNLL-2009 Shared Task](https://ufal.mff.cuni.cz/conll2009-st/task-description.html).
+Dependency representations following the SRL [CoNLL-2009 Shared Task](https://ufal.mff.cuni.cz/conll2009-st/task-description.html).
 
 AUTHOR
 ------
