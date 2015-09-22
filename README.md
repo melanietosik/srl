@@ -37,7 +37,9 @@ Previous results on the models descriped in the paper can be found in [res.all.t
 DESCRIPTION
 -----------
 
-The task is to identify semantic arguments of sentence predicates and classify them into their semantic roles, for example:
+The task is to identify semantic arguments of sentence predicates and classify them into their semantic roles.
+
+For example:
 
 [ John ]<sub>AGENT</sub> hits [ Mary ]<sub>PATIENT</sub> [ with a stick ]<sub>INSTRUMENT</sub> .
 
